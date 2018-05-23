@@ -1,6 +1,6 @@
 var friendsArray = [{
     "name": "Dennis",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       5,
       1,
@@ -16,7 +16,7 @@ var friendsArray = [{
   },
   {
     "name": "Joe",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       1,
       1,
@@ -32,7 +32,7 @@ var friendsArray = [{
   },
   {
     "name": "Cleveland",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       5,
       5,
@@ -48,7 +48,7 @@ var friendsArray = [{
   },
   {
     "name": "Peter",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       3,
       3,
@@ -64,7 +64,7 @@ var friendsArray = [{
   },
   {
     "name": "Brian",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       2,
       2,
@@ -80,7 +80,7 @@ var friendsArray = [{
   },
   {
     "name": "Meghan",
-    "photo": "http://via.placeholder.com/200x200",
+    "photo": "https://picsum.photos/200/300/?random",
     "scores": [
       4,
       4,
