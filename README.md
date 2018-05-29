@@ -1,6 +1,6 @@
 # Friend Finder using nodejs and Express
 
-This app takes user input through a form and displays their best match.
+This app takes user input through a form and displays a best match.
 
 # Deployed with Heroku
 
